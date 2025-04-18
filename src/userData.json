@@ -1,0 +1,35 @@
+[
+  {
+    "username": "Jacques Gluke",
+    "tag": "jgluke",
+    "location": "Ocho Rios, Jamaica",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+    "stats": {
+      "followers": 5603,
+      "views": 4827,
+      "likes": 1308
+    }
+  },
+  {
+    "username": "Elena Korach",
+    "tag": "elenak",
+    "location": "Kyiv, Ukraine",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922510.png",
+    "stats": {
+      "followers": 7800,
+      "views": 5200,
+      "likes": 2200
+    }
+  },
+  {
+    "username": "Chris Jackson",
+    "tag": "chrisj",
+    "location": "New York, USA",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922522.png",
+    "stats": {
+      "followers": 4300,
+      "views": 3100,
+      "likes": 1500
+    }
+  }
+]
